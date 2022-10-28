@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0b81051-6fa6-4c47-a16d-d4ec4e3994c1" name="Source Only Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_introduction/a1WelcomeToJava.java" afterDir="false" />
+    <list default="true" id="66dac6ed-1719-4583-8afb-2e2b3f53eeca" name="Changes" comment="Java Output Formatting">
+      <change afterPath="$PROJECT_DIR$/src/a_introduction/A4_JavaStdinAndStdoutII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_introduction/A5_JavaOutputFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_introduction/A6_JavaLoopsI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,24 +31,123 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="" name="Changes" comment="" />
-      <changelist id="d0b81051-6fa6-4c47-a16d-d4ec4e3994c1" name="Source Only Changes" comment="" />
+      <changelist id="" name="Source Only Changes" comment="" />
       <created>1666964667603</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666964667603</updated>
-      <workItem from="1666964673335" duration="628000" />
+      <workItem from="1666964673335" duration="6380000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1666965485313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666965485313</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Welcome to Java!">
+      <created>1666965551388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666965551388</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java Stdin and Stdout I">
+      <created>1666965969434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666965969434</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Java If-Else">
+      <created>1666966903612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666966903612</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Java Stdin and Stdout II">
+      <created>1666967910190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666967910190</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Java Output Formatting">
+      <created>1666970171422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970171422</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Welcome to Java! (rename)">
+      <created>1666970391012</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970391012</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Welcome to Java!">
+      <created>1666970673280</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970673280</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Welcome to Java!">
+      <created>1666970709068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970709068</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Java Stdin and Stdout I">
+      <created>1666970738987</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970738987</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Java If-Else">
+      <created>1666970750826</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970750826</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Java If-Else">
+      <created>1666970794354</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970794354</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Java Stdin and Stdout II">
+      <created>1666970814723</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970814723</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Java Output Formatting">
+      <created>1666970830145</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666970830145</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +163,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Welcome to Java! (rename)" />
+    <MESSAGE value="Welcome to Java!" />
+    <MESSAGE value="Java Stdin and Stdout I" />
+    <MESSAGE value="Java If-Else" />
+    <MESSAGE value="Java Stdin and Stdout II" />
+    <MESSAGE value="Java Output Formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Output Formatting" />
   </component>
 </project>
