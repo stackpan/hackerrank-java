@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66dac6ed-1719-4583-8afb-2e2b3f53eeca" name="Changes" comment="Java Output Formatting">
-      <change afterPath="$PROJECT_DIR$/src/a_introduction/A4_JavaStdinAndStdoutII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_introduction/A5_JavaOutputFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_introduction/A6_JavaLoopsI.java" afterDir="false" />
+    <list default="true" id="66dac6ed-1719-4583-8afb-2e2b3f53eeca" name="Changes" comment="workspace.xml commit">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666964667603</updated>
-      <workItem from="1666964673335" duration="6380000" />
+      <workItem from="1666964673335" duration="7029000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1666965485313</created>
@@ -147,7 +145,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666970830145</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Java Stdin and Stdout II">
+      <created>1666971285977</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971285977</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Java Output Formatting">
+      <created>1666971308127</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971308127</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Java Loops I">
+      <created>1666971317548</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971317548</updated>
+    </task>
+    <task id="LOCAL-00018" summary="workspace.xml commit">
+      <created>1666971363704</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666971363704</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +198,8 @@
     <MESSAGE value="Java If-Else" />
     <MESSAGE value="Java Stdin and Stdout II" />
     <MESSAGE value="Java Output Formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Output Formatting" />
+    <MESSAGE value="Java Loops I" />
+    <MESSAGE value="workspace.xml commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml commit" />
   </component>
 </project>
