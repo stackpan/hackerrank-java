@@ -7,7 +7,7 @@ package a_introduction;
 
 import java.util.Scanner;
 
-public class A8_JavaDatatypes {
+public class A08_JavaDatatypes {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
