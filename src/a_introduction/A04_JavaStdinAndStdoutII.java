@@ -7,7 +7,7 @@ package a_introduction;
 
 import java.util.*;
 
-public class A4_JavaStdinAndStdoutII {
+public class A04_JavaStdinAndStdoutII {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
