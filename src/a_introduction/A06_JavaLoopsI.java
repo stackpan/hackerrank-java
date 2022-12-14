@@ -7,7 +7,7 @@ package a_introduction;
 
 import java.io.*;
 
-public class A6_JavaLoopsI {
+public class A06_JavaLoopsI {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
