@@ -7,7 +7,7 @@ package a_introduction;
 
 import java.util.Scanner;
 
-public class A10_StaticInitializerBlock {
+public class A10_JavaStaticInitializerBlock {
 
     /* The solution */
     public static int zeroLimit = 0;
