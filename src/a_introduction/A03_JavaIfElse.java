@@ -7,7 +7,7 @@ package a_introduction;
 
 import java.io.*;
 
-public class A3_JavaIfElse {
+public class A03_JavaIfElse {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
