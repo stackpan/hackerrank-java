@@ -7,7 +7,7 @@ package a_introduction;
 
 import java.util.Scanner;
 
-public class A9_JavaEndOfFile {
+public class A09_JavaEndOfFile {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
