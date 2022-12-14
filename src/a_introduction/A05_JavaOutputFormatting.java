@@ -7,7 +7,7 @@ package a_introduction;
 
 import java.util.*;
 
-public class A5_JavaOutputFormatting {
+public class A05_JavaOutputFormatting {
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         /* The solution */
